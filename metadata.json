@@ -1,0 +1,6 @@
+{
+  "name": "Otimizador de Hardware - Gerenciador de Scripts",
+  "description": "Ferramenta para técnicos de TI gerenciarem a desinstalação de programas em segundo plano, gerarem scripts de limpeza personalizados e otimizarem o desempenho de hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
